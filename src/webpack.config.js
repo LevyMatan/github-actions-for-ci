@@ -8,7 +8,7 @@ module.exports = {
     ]
   },
   output: {
-    filename: 'main.js',
+    filename: 'game.js',
     path: path.resolve(__dirname, '../public')
   }
 }
